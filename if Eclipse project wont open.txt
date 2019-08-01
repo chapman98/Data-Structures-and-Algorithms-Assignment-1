@@ -1,0 +1,1 @@
+if the project wont open after unzipping it. create a new project and drag the 3 java files in the src folder to the src folder in the new java project and run main.java
